@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/archs/AndroidStudioProjects/PaintProject/app/src/main/res/drawable/background.xml" value="0.1574074074074074" />
+        <entry key="..\:/Users/archs/AndroidStudioProjects/PaintProject/app/src/main/res/drawable/bord.xml" value="0.1574074074074074" />
+        <entry key="..\:/Users/archs/AndroidStudioProjects/PaintProject/app/src/main/res/drawable/button_gamelevels.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/archs/AndroidStudioProjects/PaintProject/app/src/main/res/drawable/button_style.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/archs/AndroidStudioProjects/PaintProject/app/src/main/res/drawable/button_style_white.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/archs/AndroidStudioProjects/PaintProject/app/src/main/res/drawable/dialog.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/archs/AndroidStudioProjects/PaintProject/app/src/main/res/drawable/layout_board.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/archs/AndroidStudioProjects/PaintProject/app/src/main/res/drawable/layout_board_bottom.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/archs/AndroidStudioProjects/PaintProject/app/src/main/res/drawable/style2.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/archs/AndroidStudioProjects/PaintProject/app/src/main/res/drawable/style_black_do.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/archs/AndroidStudioProjects/PaintProject/app/src/main/res/drawable/style_black_posle.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/archs/AndroidStudioProjects/PaintProject/app/src/main/res/drawable/style_btn_black60.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/archs/AndroidStudioProjects/PaintProject/app/src/main/res/drawable/top_click.xml" value="0.1574074074074074" />
+        <entry key="..\:/Users/archs/AndroidStudioProjects/PaintProject/app/src/main/res/drawable/top_not_click.xml" value="0.1574074074074074" />
+        <entry key="..\:/Users/archs/AndroidStudioProjects/PaintProject/app/src/main/res/drawable/top_yes_click.xml" value="0.1574074074074074" />
+        <entry key="..\:/Users/archs/AndroidStudioProjects/PaintProject/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/archs/AndroidStudioProjects/PaintProject/app/src/main/res/layout/dialog.xml" value="0.16666666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
